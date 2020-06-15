@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Babymoon</string>
+    <string name="feed_start">feed start</string>
+    <string name="feed_stop">feed stop</string>
+    <string name="feed_reset">feed reset</string>
+    <string name="Settings"></string>
+    <string name="start_sleep">Start</string>
+    <string name="Stop_sleep">Stop</string>
+    <string name="Reset_sleep">Reset</string>
+    <string name="linktosleep">
+    <a href= "https://www.babycentre.co.uk/a1053601/sleep-safety-for-newborns">https://www.babycentre.co.uk/a1053601/sleep-safety-for-newborns</a>
+    </string>
+    <string name="linktofeed"><a href = "https://www.nhs.uk/conditions/pregnancy-and-baby/benefits-breastfeeding/">https://www.nhs.uk/conditions/pregnancy-and-baby/benefits-breastfeeding/</a></string>
+</resources>
